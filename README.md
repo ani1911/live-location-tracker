@@ -17,7 +17,6 @@ The application displays live device movements on an interactive map with instan
 - 🧩 Server-side rendering with EJS templates
 - 👥 Supports multiple connected clients
 - 🌐 Uses Browser Geolocation API
-- 📱 Responsive and mobile-friendly
 
 ---
 
